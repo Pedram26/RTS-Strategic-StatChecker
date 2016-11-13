@@ -1,8 +1,13 @@
 team,name,region,sid,ign,na_games,eu_games,kr_games,total_games
 TSM,Bjergsen,EUW,27369058,Soeren Bjerg,0,5,0,5
 TSM,Bjergsen,NA,49159160,Soerenbjerg,171,0,0,171
+TSM,Biofrost,NA,22478427,biofrost,97,0,0,97
+TSM,Doublelift,NA,20132258,doublelift,124,0,0,124
+TSM,Hauntzer,NA,46531569,ikingvex,552,0,0,552
+TSM,Svenskeren,TR,2411323,jgking,0,0,0,585
 TSM,Dyrus,NA,5908,dyrus,323,0,0,323
 C9,Sneaky,NA,51405,c9sneaky,357,0,0,357
 C9,Meteos,NA,390600,c9meteos,259,0,0,259
-C9,Jensen,NA,68479258,c9jensen,251,0,0,251C9,Impact,KR,50550130,c9inches,0,0,55,55
+C9,Jensen,NA,68479258,c9jensen,251,0,0,251
+C9,Impact,KR,50550130,c9inches,0,0,55,55
 C9,Smoothie,NA,20823651,smoothie,247,0,0,247
